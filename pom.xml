@@ -28,7 +28,7 @@
         <springboot.version>2.0.3.RELEASE</springboot.version>
         <springcloud.version>Finchley.RELEASE</springcloud.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <drut.version>1.1.0</drut.version>
         <mybatis.version>1.3.2</mybatis.version>
         <tk-mybatis.version>2.1.3</tk-mybatis.version>
