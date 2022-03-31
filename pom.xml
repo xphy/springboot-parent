@@ -25,7 +25,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <java.version>1.8</java.version>
-        <springboot.version>2.0.3.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <springcloud.version>Finchley.RELEASE</springcloud.version>
         <slf4j.version>1.7.25</slf4j.version>
         <mysql.version>5.1.46</mysql.version>
